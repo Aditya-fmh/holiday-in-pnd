@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/hero-bg.jpg",
+        url: "/hero-bg.png",
         width: 1440,
         height: 720,
         alt: "Beautiful tropical vacation destination",
